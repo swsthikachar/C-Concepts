@@ -2,5 +2,5 @@
 <stdio.h>
 void main()
 {
-	printf("Prateek");
+	printf("swasthik");
 }
